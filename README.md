@@ -1,6 +1,6 @@
 # RandomPWGen
 
-In this home work I have added javascript to the current HTML and CSS files to create a random password generator. I have created a pop up prompt that will ask you to state the password length and if to include upper case, numbers or symbols in the password.
+In this homework I have added javascript to the current HTML and CSS files to create a random password generator. I have created a pop up prompt that will ask you to state the password length and if to include upper case, numbers or symbols in the password.
 
 # Screenshots
 ![Alt text](https://github.com/p3t3rn9uy3n/RandomPWGen/blob/main/Develop/Screenshots/screenshot1.PNG?raw=true "Screenshot 1")
